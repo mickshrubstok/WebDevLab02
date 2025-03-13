@@ -1,0 +1,26 @@
+{
+    "stats": [
+      {"Season": "2003-04", "PPG": 20.9, "APG": 5.9, "RPG": 5.5, "Team": "Cavaliers", "Rookie of the Year": 1},
+      {"Season": "2004-05", "PPG": 27.2, "APG": 7.2, "RPG": 7.4, "Team": "Cavaliers", "All-Star Appearances": 1, "All-NBA Teams": 1},
+      {"Season": "2005-06", "PPG": 31.4, "APG": 6.6, "RPG": 7.0, "Team": "Cavaliers", "All-Star Appearances": 1, "Scoring Titles": 1, "All-NBA Teams": 1},
+      {"Season": "2006-07", "PPG": 27.3, "APG": 6.0, "RPG": 6.7, "Team": "Cavaliers", "All-Star Appearances": 1, "All-NBA Teams": 1},
+      {"Season": "2007-08", "PPG": 30.0, "APG": 7.2, "RPG": 7.9, "Team": "Cavaliers", "All-Star Appearances": 1, "All-NBA Teams": 1},
+      {"Season": "2008-09", "PPG": 28.4, "APG": 7.2, "RPG": 7.6, "Team": "Cavaliers", "All-Star Appearances": 1, "MVPs": 1, "All-NBA Teams": 1, "All-Defensive Teams": 1},
+      {"Season": "2009-10", "PPG": 29.7, "APG": 8.6, "RPG": 7.3, "Team": "Cavaliers", "All-Star Appearances": 1, "MVPs": 1, "All-NBA Teams": 1, "All-Defensive Teams": 1},
+      {"Season": "2010-11", "PPG": 26.7, "APG": 7.0, "RPG": 7.5, "Team": "Heat", "All-Star Appearances": 1, "All-NBA Teams": 1},
+      {"Season": "2011-12", "PPG": 27.1, "APG": 6.2, "RPG": 7.9, "Team": "Heat", "All-Star Appearances": 1, "Championships": 1, "MVPs": 1, "Finals MVPs": 1, "All-NBA Teams": 1, "All-Defensive Teams": 1},
+      {"Season": "2012-13", "PPG": 26.8, "APG": 7.3, "RPG": 8.0, "Team": "Heat", "All-Star Appearances": 1, "Championships": 1, "MVPs": 1, "Finals MVPs": 1, "All-NBA Teams": 1, "All-Defensive Teams": 1},
+      {"Season": "2013-14", "PPG": 27.1, "APG": 6.3, "RPG": 6.9, "Team": "Heat", "All-Star Appearances": 1, "All-NBA Teams": 1},
+      {"Season": "2014-15", "PPG": 25.3, "APG": 7.4, "RPG": 6.0, "Team": "Cavaliers", "All-Star Appearances": 1, "All-NBA Teams": 1},
+      {"Season": "2015-16", "PPG": 25.3, "APG": 6.8, "RPG": 7.4, "Team": "Cavaliers", "All-Star Appearances": 1, "All-NBA Teams": 1, "Championships": 1, "Finals MVPs": 1},
+      {"Season": "2016-17", "PPG": 26.4, "APG": 8.7, "RPG": 8.6, "Team": "Cavaliers", "All-Star Appearances": 1, "All-NBA Teams": 1},
+      {"Season": "2017-18", "PPG": 27.5, "APG": 9.1, "RPG": 8.6, "Team": "Cavaliers", "All-Star Appearances": 1, "All-NBA Teams": 1},
+      {"Season": "2018-19", "PPG": 27.4, "APG": 8.3, "RPG": 8.5, "Team": "Lakers", "All-Star Appearances": 1, "All-NBA Teams": 1},
+      {"Season": "2019-20", "PPG": 25.3, "APG": 10.2, "RPG": 7.8, "Team": "Lakers", "All-Star Appearances": 1, "All-NBA Teams": 1, "Championships": 1, "Finals MVPs": 1},
+      {"Season": "2020-21", "PPG": 25.0, "APG": 7.8, "RPG": 7.7, "Team": "Lakers", "All-Star Appearances": 1, "All-NBA Teams": 1},
+      {"Season": "2021-22", "PPG": 30.3, "APG": 6.2, "RPG": 8.2, "Team": "Lakers", "All-Star Appearances": 1, "All-NBA Teams": 1},
+      {"Season": "2022-23", "PPG": 28.9, "APG": 7.3, "RPG": 8.3, "Team": "Lakers", "All-Star Appearances": 1, "All-NBA Teams": 1},
+      {"Season": "2023-24", "PPG": 25.7, "APG": 8.3, "RPG": 7.3, "Team": "Lakers", "All-Star Appearances": 1, "All-NBA Teams": 1}
+    ]
+  }
+  
